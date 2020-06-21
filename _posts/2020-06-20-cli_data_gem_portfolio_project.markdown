@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "CLI Data Gem Portfolio Project"
-date:       2020-06-21 02:22:00 +0000
+date:       2020-06-20 22:22:00 -0400
 permalink:  cli_data_gem_portfolio_project
 ---
 
 
-This is the first project that I did all by myself...not really...because coding is always open-book, I felt like all the people and their generously putting out their knowledge for everyone to read and watch, have helped me so much, that I cannot say I did it all by myself.
+This is the first project that I did all by myself...not really...because coding is always open-book, I felt like all the people and their generously putting out their knowledge for everyone to read and watch, have helped me so much that I cannot say I did it all by myself.
 
-My first CLI Data Scraping project is about Zodiac Signs. I used to go to Horoscope.com when I feel bad about myself, and want some encouragement or insight on when my days going to be better, so I imagined someone else might be doing the same too. That's my user story.
+My first CLI Data Scraping project is about Zodiac Signs. I always go to Horoscope.com when I feel like I need some luck, and want some encouragement or insight on when my days are going to be better, so I imagined someone else might be doing the same too. That's my user story.
 
-The data scraping part was challenging and fun! I am pretty familiar with HTML tags, but objects and the nested structure of the nokogiri is really hard to read if I didn't know how to go a layer down at a time. But I found a pretty good video on YouTube that showed me how to do just that, especially with the href attribute. Here's the link: https://www.youtube.com/watch?v=b3CLEUBdWwQ
+The data scraping part was challenging and fun! I am pretty familiar with HTML tags, but objects and the nested structure of the nokogiri is really hard to read if I didn't know how to go one layer down at a time. But I found a pretty good video on YouTube that showed me how to do just that, especially with the href attribute. Here's the link: https://www.youtube.com/watch?v=b3CLEUBdWwQ
 
 After finishing this project, I'm getting more confident at scrapping. :)
 
