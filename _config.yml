@@ -1,11 +1,11 @@
 # Site settings
 author: Amy Fong
-title: Software Engineering Course Blog
+title: Software Engineering at Flatiron School
 header-img: img/home-bg.png
 email: amyhfong@gmail.com
 copyright_name: Amy Fong
 description: > # this means to ignore newlines until "baseurl:"
-  Blogs about learning how to code
+  Blog about learning how to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AmyFong82
