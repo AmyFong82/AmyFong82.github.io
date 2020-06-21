@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did I start to learn software development?"
-date:       2020-06-21 01:45:01 +0000
+date:       2020-06-20 21:45:02 -0400
 permalink:  why_did_i_start_to_learn_software_development
 ---
 
@@ -16,4 +16,4 @@ When I was in elementary school, I used to think that I was going to become a Ja
 
 So, I learned to use some Adobe softwares to do some design. I like working on the computer. But I didn’t really have a formal training in design. And the experience in the small printing shop repelled me from becomeing a designer… Then, comes web design, and finally coding.
 
-Time flies when I'm coding. I love the feeling of solving problems and passing tests. I love when they say programmer are lazy people, we do not want to repeatedly doing the same thing over and over. It took me this long (almost 40 years) to realized that I enjoyed problem solving. I could link that to my high school Math homework. I enjoyed solving the Math problems, especially the difficult ones. But I didn’t really get any complaints for solving all the Math problems in school because my dad expected me to get perfect score anyhow. And my classmates copies my homework, so everybody got the problems solved in class. LOL. I’m not trying to blame anyone, but my interest in drawing started when one of my aunt complimented my drawing when I was 5 or 6 years old. You can imagine how good a 5 year old’s drawing can be. But her compliment changed the course of my life. I’m grateful for her, and still love reading Japanese manga, and hope one day, when I have enough money to retire, I can take some figure drawing classes.
+Time flies when I'm coding. I love the feeling of solving problems and passing tests. I love when they say programmer are lazy people, we do not want to repeatedly doing the same thing over and over. It took me this long (almost 40 years) to realized that I enjoyed problem solving. I could link that to my high school Math homework. I enjoyed solving the Math problems, especially the difficult ones. But I didn’t really get any compliments for solving all the Math problems in school because my dad expected me to get perfect score anyhow. And my classmates copies my homework, so everybody got the problems solved in class. LOL. I’m not trying to blame anyone, but my interest in drawing started when one of my aunt complimented my drawing when I was 5 or 6 years old. You can imagine how good a 5 year old’s drawing can be. But her compliment changed the course of my life. I’m grateful for her, and still love reading Japanese manga, and hope one day, when I have enough money to retire, I can take some figure drawing classes.
