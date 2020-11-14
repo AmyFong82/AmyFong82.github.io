@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Single Quotes or Double Quotes"
-date:       2020-11-14 05:28:01 +0000
+date:       2020-11-14 00:28:01 -0500
 permalink:  single_quotes_or_double_quotes
 ---
 
@@ -15,7 +15,7 @@ redirect 'owners/#{@owner.id}'
 It only works when I use double quote, like this:
 redirect "owners/#{@owner.id}"
 
-I didn't know the reason why in the beginning, I just use double quote for all the rendering and redirecting. I thought it was how the language was written. :P
+It took me a long time to figure out that it's the quotation that I used that's causing the probelm. I didn't know the reason why in the beginning, but I started to use double quote for all the rendering and redirecting. I thought it was how the language was written. :P
 
 Now I know. Thank you for asking that question Dougui, and thank you for answering his question, stackoverflow users.
 Here's the link to the question:
