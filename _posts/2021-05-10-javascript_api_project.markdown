@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript API Project"
-date:       2021-05-10 18:41:46 +0000
+date:       2021-05-10 14:41:46 -0400
 permalink:  javascript_api_project
 ---
 
@@ -14,6 +14,6 @@ In the planning of the project, I wasn't sure what an API is...it could be some 
 
 Then I started with my second try: a Sight Word Practice Game for Toddlers. I want the users to be able to track their progress if they don't want to finish the whole game in one try, so user info storage is still necessary. I decide to go with the local storage. Since it's just a game, and nothing really personal or important is being stored, I feel comfortable with exposing the user info in the local storage.
 
-But the "preventDefault()" also threw me off, and I took about 2 days to figure out what is wrong with the user login. I used the HTML5 default form validations, so when I use preventDefault() in my js, it disabled the HTML5 default form validation from working. I didn't know it was a problem, but finally figured out I can check if there's anything entered by a user before running the preventDefault().
+But the "preventDefault()" also threw me off, and I took about 2 days to figure out what is wrong with the user login when they submit the form. I used the HTML5 default form validations, so when I use preventDefault() in my js, it disabled the HTML5 default form validation from working. I didn't know it was a problem, but finally figured out I can check if there's anything entered by a user before running the preventDefault().
 
-I'm very happy to have learn so much from doing this project, and am excited to learn more in the coming sections.
+I'm very happy to have learned so much from doing this project, and am excited to learn more in the coming sections.
